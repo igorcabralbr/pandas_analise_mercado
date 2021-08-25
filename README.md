@@ -43,19 +43,18 @@ end="2021-08-01")["Adj Close"]
 
 O primeiro gráfico trás para o plano cartesiano os índices, cada qual com seu valor de pontos:
 
-![screenshot1](https://github.com/igorcabralbr/pandas_analise_mercado/tree/main/imagens/img1.png)
-<img src="https://github.com/igorcabralbr/pandas_analise_mercado/tree/main/imagens/img1.png" alt="imagem1">
+![indices](https://github.com/igorcabralbr/pandas_analise_mercado/tree/main/imagens/img1.png)
 
 Para efeito de comparação esse gráfico não serve muito, pois cada índice tem sua própria pontuação e comparar diretamente os valores entre índices diferentes seria um erro.
 
 Para tanto, é necessário normalizar os índices, tornando suas pontuações proporcionais e partindo de um mesmo ponto, assim temos o seguinte gráfico:
 
-![screenshot2](https://github.com/igorcabralbr/pandas_analise_mercado/tree/main/imagens/img2.png)
+![indices concatenados](https://github.com/igorcabralbr/pandas_analise_mercado/tree/main/imagens/img2.png)
 
 Uma vez normalizados, um índice chamado 'índices mundo' é criado, composto justamente pelos índices trabalhados anteriormente.<br>
 Com este super-índice em mãos, é feita a comparação contra o Ibov brasileiro.
 
-![screenshot3](https://github.com/igorcabralbr/pandas_analise_mercado/tree/main/imagens/img3.png)
+![indices x ibov](https://github.com/igorcabralbr/pandas_analise_mercado/tree/main/imagens/img3.png)
 
 Finalmente é observado o comportamento do índice brasileiro perante os principais índices mundiais durante o período de pandemia.
 
