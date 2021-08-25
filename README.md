@@ -44,6 +44,7 @@ end="2021-08-01")["Adj Close"]
 O primeiro gráfico trás para o plano cartesiano os índices, cada qual com seu valor de pontos:
 
 ![screenshot1](https://github.com/igorcabralbr/pandas_analise_mercado/tree/main/imagens/img1.png)
+<img src="https://github.com/igorcabralbr/pandas_analise_mercado/tree/main/imagens/img1.png" alt="imagem1">
 
 Para efeito de comparação esse gráfico não serve muito, pois cada índice tem sua própria pontuação e comparar diretamente os valores entre índices diferentes seria um erro.
 
