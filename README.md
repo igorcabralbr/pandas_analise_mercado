@@ -1,4 +1,4 @@
-# índices financeiros vs pandemia
+# Índices Financeiros vs Pandemia
 ### Analisando o comportamento dos principais índices financeiros diante da pandemia
 
 O intuito desta análise, inicialmente, é observar o comportamento de alguns dos principais índices financeiros mundiais diante da chegada da pandemia. O intervalo a ser analisado compreenderá o período entre 01/10/2019 e 01/08/2021, e para fins de estudo se adotará 01/03/2020 como marco da pandemia.
